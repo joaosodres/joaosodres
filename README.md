@@ -1,4 +1,4 @@
-### Oi me chamo João Victor Sodré, atualmente programador júnior trabalhando com React, React Native, TypeScript e JavaScript.
+### Oi me chamo João Victor Sodré, atualmente trabalhando com React, React Native, TypeScript e JavaScript.
 <div align="center">
   <a href="https://github.com/joaosodres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosodres&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
